@@ -19,14 +19,13 @@
 
 ## Screenshots
 <p align="center">
-<img alt="App Icon" width="270" height="250" src="https://github.com/user-attachments/assets/44d3be1b-b9d9-4082-95ab-64cfc9b6e721"></p>
+<img alt="App Icon" width="270" height="270" src="https://github.com/user-attachments/assets/44d3be1b-b9d9-4082-95ab-64cfc9b6e721"></p>
 <br>
 <p align="center">
-<img alt="Project Image 1" width="600" height="430" src="https://github.com/user-attachments/assets/1996d2de-0e67-4018-9900-4afc4ad89673">
-<img alt="Project Image 2" width="600" height="430" src="https://github.com/user-attachments/assets/9e755bff-c792-4d99-affc-a139ed4e29e6">
-<img alt="Project Image 3" width="600" height="430" src="https://github.com/user-attachments/assets/66815ec6-c0ba-4322-8d71-743c34fe28be">
-<img alt="Project Image 4" width="600" height="430" src="https://github.com/user-attachments/assets/3d75cbfd-20e1-433f-b44e-554b9372ea8c">
-<img alt="Project Image 5" width="600" height="430" src="https://github.com/user-attachments/assets/c34981c5-d58f-4af9-add9-fc2ac1e8fa48"></p>
+<img alt="Project Image 1" width="250" src="https://github.com/user-attachments/assets/4905f2a0-60aa-4de8-bc06-aa8dea52c57d">
+<img alt="Project Image 2" width="250" src="https://github.com/user-attachments/assets/5dc6e3c8-3178-44f5-9d9b-9658818018fb">
+<img alt="Project Image 3" width="250" src="https://github.com/user-attachments/assets/3f0f69a0-ca90-46dc-95c7-6a9cf63098b1">
+<img alt="Project Image 4" width="250" src="https://github.com/user-attachments/assets/d9f8c1ea-d82e-4f6d-9150-c63bff2ff677"></p>
 <br>
 
 ## Authors
