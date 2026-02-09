@@ -1,12 +1,11 @@
 # Duet 💕
 
 ### 💖 Sobre o aplicativo 
-- Neste repositório, você irá conhecer um pouco mais sobre o game Duet – um aplicativo para iPhone, criado com Swift e SwiftUI, utilizando o Xcode como IDE.
+- Neste repositório, você irá conhecer um pouco mais sobre o aplicativo Duet – um aplicativo para iPhone, criado com Swift e SwiftUI, utilizando o Xcode como IDE.
 - Com o Duet, vários casais jovens podem dividir atividades domésticas de forma prática e justa, cultivar o romance no cotidiano, sem deixar que os conflitos apaguem a parceria, e estabelecer acordos de convivência que fortalecem a relação
 - Disponível em Inglês e Português
 - Desenvolvido em equipe 
-- <b>Disponível na App Store!</b>
-- Link para download: https://apps.apple.com/br/app/duet-organizer-for-couples/id6753019952
+- <a href="https://apps.apple.com/br/app/duet-organizer-for-couples/id6753019952"><b>Disponível na App Store!</b></a>
 
 ## 🛠️ Ferramentas
 - Swift
