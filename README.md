@@ -19,7 +19,7 @@
 
 ## Screenshots
 <p align="center">
-<img alt="App Icon" width="270" height="250" src="https://github.com/user-attachments/assets/b11ab44f-ea2d-4ca2-b7a1-ca82ad265d7c"></p>
+<img alt="App Icon" width="270" height="250" src="https://github.com/user-attachments/assets/44d3be1b-b9d9-4082-95ab-64cfc9b6e721"></p>
 <br>
 <p align="center">
 <img alt="Project Image 1" width="600" height="430" src="https://github.com/user-attachments/assets/1996d2de-0e67-4018-9900-4afc4ad89673">
