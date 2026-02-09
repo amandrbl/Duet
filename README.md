@@ -24,7 +24,7 @@
 <p align="center">
 <img alt="Project Image 1" width="250" src="https://github.com/user-attachments/assets/45da0f73-11d8-4f48-bf59-269a5448bc70">
 <img alt="Project Image 2" width="250" src="https://github.com/user-attachments/assets/5fc5f359-e624-4bed-af9c-4c3ccfb7ec49">
-<img alt="Project Image 3" width="250" src="https://github.com/user-attachments/assets/3f0f69a0-ca90-46dc-95c7-6a9cf63098b1">
+<img alt="Project Image 3" width="250" src="https://github.com/user-attachments/assets/6b2e6f90-f30c-4777-98ab-c57bfa276022">
 <img alt="Project Image 4" width="250" src="https://github.com/user-attachments/assets/d9f8c1ea-d82e-4f6d-9150-c63bff2ff677"></p>
 <br>
 
