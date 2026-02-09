@@ -8,7 +8,7 @@
 - <b>Disponível na App Store!</b>
 - Link para download: https://apps.apple.com/br/app/duet-organizer-for-couples/id6753019952
 
-## Ferramentas
+## 🛠️ Ferramentas
 - Swift
 - SwiftUI
 - CloudKit
@@ -17,7 +17,7 @@
 - JIRA para gestão do projeto
 - Figma
 
-## Screenshots
+## 📱 Telas do aplicativo
 <p align="center">
 <img alt="App Icon" width="270" height="270" src="https://github.com/user-attachments/assets/44d3be1b-b9d9-4082-95ab-64cfc9b6e721"></p>
 <br>
@@ -28,7 +28,7 @@
 <img alt="Project Image 4" width="250" src="https://github.com/user-attachments/assets/6b2e6f90-f30c-4777-98ab-c57bfa276022"></p>
 <br>
 
-## Equipe de Desenvolvimento
+## 🤝 Equipe de Desenvolvimento
 - Amanda dos Santos Rabelo (dev)
 - Ana Beatriz Seixas (dev)
 - Pedro Larry (dev)
