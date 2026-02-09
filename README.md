@@ -28,7 +28,7 @@
 <img alt="Project Image 4" width="250" src="https://github.com/user-attachments/assets/6b2e6f90-f30c-4777-98ab-c57bfa276022"></p>
 <br>
 
-## Authors
+## Equipe de Desenvolvimento
 - Amanda dos Santos Rabelo (dev)
 - Ana Beatriz Seixas (dev)
 - Pedro Larry (dev)
