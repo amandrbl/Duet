@@ -6,7 +6,7 @@
 - Disponível em Inglês e Português
 - Desenvolvido em equipe 
 - <b>Disponível na App Store!</b>
-- Link para download: https://apps.apple.com/br/app/duet-organizer-for-couples
+- Link para download: https://apps.apple.com/br/app/duet-organizer-for-couples/id6753019952
 
 ## Ferramentas
 - Swift
