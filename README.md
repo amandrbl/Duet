@@ -28,7 +28,7 @@
 <br>
 
 ## 🤝 Equipe de Desenvolvimento
-- Amanda dos Santos Rabelo (dev)
+- Amanda Rabelo (dev)
 - Ana Beatriz Seixas (dev)
 - Pedro Larry (dev)
 - Letícia Lima (designer)
